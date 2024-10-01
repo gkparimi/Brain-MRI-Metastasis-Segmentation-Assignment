@@ -10,6 +10,3 @@ This project implements and compares two deep learning architectures, Nested U-N
 - Applied CLAHE to enhance MRI image contrast.
 - Augmented the dataset with rotations, shifts, and zooms.
 
-## Results
-- Nested U-Net DICE Score: XX.XX
-- Attention U-Net DICE Score: XX.XX
