@@ -1,7 +1,7 @@
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 def augment_data(images, masks):
-    """Augment data using rotations, shifts, flips, etc."""
+
     data_gen_args = dict(rotation_range=30,
                          width_shift_range=0.1,
                          height_shift_range=0.1,
